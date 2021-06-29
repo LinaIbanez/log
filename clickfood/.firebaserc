@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "login-2eac8": {
+      "hosting": {
+        "app": [
+          "login-2eac8"
+        ]
+      }
+    }
+  }
+}
